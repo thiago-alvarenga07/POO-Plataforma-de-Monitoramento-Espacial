@@ -26,3 +26,6 @@ Projeto juntando todo os conceitos vistos no primeiro semestre de programação 
 ┣ 📄 .gitignore
 ┗ 📄 README.md
 ```
+## 📷 Printscreen do sistema funcionando
+<img width="1550" height="952" alt="image" src="https://github.com/user-attachments/assets/dfaa527e-e696-4aea-8534-168d76c995b7" />
+
